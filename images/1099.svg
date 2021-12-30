@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229.26" height="36.382" viewBox="0 0 229.26 36.382">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: SpoqaHanSansNeo-Medium, Spoqa Han Sans Neo;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #1c1c1c;
+        stroke-width: 5px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        fill: red;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_1099" data-name="그룹 1099" transform="translate(-1165.74 -8361)">
+    <text id="LED_헤드라이트" data-name="LED 헤드라이트" class="cls-1" transform="translate(1285 8361)"><tspan x="0" y="14">LED </tspan><tspan y="14">헤드라이트</tspan></text>
+    <g id="그룹_1092" data-name="그룹 1092" transform="translate(4511.74 12990.382) rotate(-90)">
+      <path id="패스_841" data-name="패스 841" class="cls-2" d="M0,23.264,23.264,0h86.257" transform="translate(4619.764 -3342) rotate(90)"/>
+      <path id="패스_839" data-name="패스 839" class="cls-3" d="M0,23.264,23.264,0h86.257" transform="translate(4619.764 -3342) rotate(90)"/>
+      <g id="타원_330" data-name="타원 330" class="cls-4" transform="translate(4601 -3346) rotate(90)">
+        <circle class="cls-5" cx="4" cy="4" r="4"/>
+        <circle class="cls-6" cx="4" cy="4" r="3.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

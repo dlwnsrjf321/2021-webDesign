@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245.882" height="115.76" viewBox="0 0 245.882 115.76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: SpoqaHanSansNeo-Medium, Spoqa Han Sans Neo;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        font-family: SpoqaHanSansNeo-Regular, Spoqa Han Sans Neo;
+        font-weight: 400;
+      }
+
+      .cls-3, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #1c1c1c;
+        stroke-width: 5px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        fill: red;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_1098" data-name="그룹 1098" transform="translate(-858.118 -8409)">
+    <text id="저고도_시트_740mm" data-name="저고도 시트
+740mm" class="cls-1" transform="translate(867 8409)"><tspan x="0" y="14">저고도 시트</tspan><tspan class="cls-2"><tspan x="0" y="39">740mm</tspan></tspan></text>
+    <g id="그룹_1095" data-name="그룹 1095" transform="translate(5480.382 5178.76) rotate(-180)">
+      <path id="패스_841" data-name="패스 841" class="cls-3" d="M0,23.264,23.264,0h86.257" transform="translate(4619.764 -3342) rotate(90)"/>
+      <path id="패스_839" data-name="패스 839" class="cls-4" d="M0,23.264,23.264,0h86.257" transform="translate(4619.764 -3342) rotate(90)"/>
+      <g id="타원_330" data-name="타원 330" class="cls-5" transform="translate(4601 -3346) rotate(90)">
+        <circle class="cls-6" cx="4" cy="4" r="4"/>
+        <circle class="cls-7" cx="4" cy="4" r="3.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="266" height="243.033" viewBox="0 0 266 243.033">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: SpoqaHanSansNeo-Medium, Spoqa Han Sans Neo;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        font-family: SpoqaHanSansNeo-Regular, Spoqa Han Sans Neo;
+        font-weight: 400;
+      }
+
+      .cls-3 {
+        font-family: SpoqaHanSansNeo-Bold, Spoqa Han Sans Neo;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-5, .cls-8 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #1c1c1c;
+        stroke-width: 5px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        fill: red;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_1104" data-name="그룹 1104" transform="translate(-759 -8752.967)">
+    <g id="그룹_1050" data-name="그룹 1050" transform="translate(-221 436)">
+      <text id="엔진_109cc_공랭식_4스트로크_단기통_엔진" data-name="엔진
+109cc 공랭식 4스트로크 단기통 엔진" class="cls-1" transform="translate(980 8460)"><tspan x="0" y="14">엔진</tspan><tspan class="cls-2"><tspan x="0" y="39">109cc </tspan><tspan y="39">공랭식 4스트로크 단기통 엔진</tspan></tspan></text>
+      <text id="최고_출력_9.1_7_500_ps_rpm_" data-name="최고 출력    9.1 / 7,500(ps/rpm)" class="cls-1" transform="translate(980 8514)"><tspan x="0" y="14">최고 출력</tspan><tspan class="cls-3" y="14" xml:space="preserve">    </tspan><tspan class="cls-2" y="14">9.1 / 7,500(ps/rpm)</tspan></text>
+      <text id="최대_토크_9.1_0.9_6_000_·m_rpm_" data-name="최대 토크    9.1 / 0.9/ 6,000(㎏·m/rpm)" class="cls-1" transform="translate(980 8541)"><tspan x="0" y="14">최대 토크</tspan><tspan class="cls-3" y="14" xml:space="preserve">    </tspan><tspan class="cls-2" y="14">9.1 / 0.9/ 6,000(㎏·m/rpm)</tspan></text>
+    </g>
+    <g id="그룹_1094" data-name="그룹 1094" transform="translate(949.585 8752.967)">
+      <path id="패스_841" data-name="패스 841" class="cls-4" d="M0,0,23.264,23.264h86.257" transform="translate(23.264 4) rotate(90)"/>
+      <path id="패스_839" data-name="패스 839" class="cls-5" d="M0,0,23.264,23.264h86.257V210.078h22.048" transform="translate(23.264 4) rotate(90)"/>
+      <g id="타원_330" data-name="타원 330" class="cls-6" transform="translate(26.764) rotate(90)">
+        <circle class="cls-7" cx="4" cy="4" r="4"/>
+        <circle class="cls-8" cx="4" cy="4" r="3.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

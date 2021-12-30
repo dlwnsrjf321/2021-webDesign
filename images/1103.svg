@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262.382" height="165.521" viewBox="0 0 262.382 165.521">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: SpoqaHanSansNeo-Medium, Spoqa Han Sans Neo;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        font-family: SpoqaHanSansNeo-Regular, Spoqa Han Sans Neo;
+        font-weight: 400;
+      }
+
+      .cls-3, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #1c1c1c;
+        stroke-width: 5px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        fill: red;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_1103" data-name="그룹 1103" transform="translate(-1022.618 -8780.479)">
+    <text id="변속_방식_자동_원심식_4단_리턴" data-name="변속 방식
+자동 원심식 4단 리턴" class="cls-1" transform="translate(1048 8902)"><tspan x="0" y="14">변속 방식</tspan><tspan class="cls-2"><tspan x="0" y="39">자동 원심식 4단 리턴</tspan></tspan></text>
+    <g id="그룹_1093" data-name="그룹 1093" transform="translate(-3570.382 12126.479)">
+      <path id="패스_841" data-name="패스 841" class="cls-3" d="M0,23.264,23.264,0h86.257" transform="translate(4619.764 -3342) rotate(90)"/>
+      <path id="패스_839" data-name="패스 839" class="cls-4" d="M0,23.264,23.264,0h86.257" transform="translate(4619.764 -3342) rotate(90)"/>
+      <g id="타원_330" data-name="타원 330" class="cls-5" transform="translate(4601 -3346) rotate(90)">
+        <circle class="cls-6" cx="4" cy="4" r="4"/>
+        <circle class="cls-7" cx="4" cy="4" r="3.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

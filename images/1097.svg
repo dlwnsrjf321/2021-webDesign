@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118.882" height="115.76" viewBox="0 0 118.882 115.76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: SpoqaHanSansNeo-Medium, Spoqa Han Sans Neo;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #1c1c1c;
+        stroke-width: 5px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        fill: red;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_1097" data-name="그룹 1097" transform="translate(-575.118 -8420)">
+    <text id="대형_리어_캐리어" data-name="대형 리어 캐리어" class="cls-1" transform="translate(584 8420)"><tspan x="0" y="14">대형 리어 캐리어</tspan></text>
+    <g id="그룹_1096" data-name="그룹 1096" transform="translate(5197.382 5189.76) rotate(-180)">
+      <path id="패스_841" data-name="패스 841" class="cls-2" d="M0,23.264,23.264,0h86.257" transform="translate(4619.764 -3342) rotate(90)"/>
+      <path id="패스_839" data-name="패스 839" class="cls-3" d="M0,23.264,23.264,0h86.257" transform="translate(4619.764 -3342) rotate(90)"/>
+      <g id="타원_330" data-name="타원 330" class="cls-4" transform="translate(4601 -3346) rotate(90)">
+        <circle class="cls-5" cx="4" cy="4" r="4"/>
+        <circle class="cls-6" cx="4" cy="4" r="3.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
